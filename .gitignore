@@ -1,2 +1,4 @@
-ip_puller.code-workspace
-ip_puller.env
+*.code-workspace
+*.env
+*.json
+*.pyc
